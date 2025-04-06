@@ -1,4 +1,4 @@
-package challenges
+package challenges.division
 
 class SafeDivision {
 

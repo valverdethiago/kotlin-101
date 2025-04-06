@@ -1,4 +1,4 @@
-package challenges
+package challenges.division
 
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.assertThrows
